@@ -1,0 +1,1 @@
+#id_grafico,id_log,tipo_grafico,descricao

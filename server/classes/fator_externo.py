@@ -1,0 +1,1 @@
+#id,temp_pista,id_teste,hora,clima,temperatura
